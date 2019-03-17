@@ -1,10 +1,8 @@
 import sys
-
-
+import webbrowser
 def main():
     ## TODO: alot
-    sys.stdout.write("Thank You For using Paynow \N{Black Heart Suit}\n")
-
+    webbrowser.open("https://developers.paynow.co.zw")
 
 if __name__ == "__main__":
     main()
