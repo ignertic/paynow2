@@ -1,6 +1,6 @@
 # Paynow2
 
-This is an Implementation of Paynow API for Python2.x
+Paynow Implementation supporting Python 2 and 3
 
 
 Refer to the Paynow Developers Site for [Documentation](https://developers.paynow.co.zw)
